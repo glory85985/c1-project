@@ -1,0 +1,46 @@
+<resources>
+
+    <string name="app_name">culturalWords</string>
+    <string name="share_the_question_with_friends">Ask a friend</string>
+    <string name="share_question_text">Share</string>
+    <string name="share_title_hint">Enter a title for this subject</string>
+    <string name="the_right_answer_is">The right answer is</string>
+    <string name="back_text">Return</string>
+    <string name="permission_title">Clarification</string>
+    <string name="permission_explanation">The application needs to have write access to the external storage to store the image in preparation for sharing it through other applications</string>
+    <string name="permission_denied">The operation was not performed because the necessary powers were not granted to implement it</string>
+    <string name="change_lang_text">Change Language</string>
+
+    <string-array name="answers">
+        <item>Aliqal</item>
+        <item>Alfur</item>
+        <item>AlSadu</item>
+        <item>Alhenna</item>
+        <item>ALDallah</item>
+        <item>slipper</item>
+        <item>dagger</item>
+        <item>Alnamriqa</item>
+        <item>Alqndil / Alsaraj</item>
+        <item>Alfanus</item>
+        <item>Altarbush</item>
+        <item>Aleamama</item>
+        <item>Aldashadasha</item>
+    </string-array>
+
+    <string-array name="answer_description">
+        <item>: It is placed over the Ghutra to holding itا</item>
+        <item>: Lined with wool, worn in the winter to prevent cold</item>
+        <item>: One of the traditional Bedouin fabric</item>
+        <item>: Used in dyeing hair and beard, and is also used to beautify hands for women</item>
+        <item>: The pot used to serve coffee to Arabs</item>
+        <item>: Made of leather, worn in the foot, previously known to the Arabs</item>
+        <item>: A small white weapon placed on the waist</item>
+        <item>: A small pillow to lean on it</item>
+        <item>: The name of the instrument that was used for lighting in the past</item>
+        <item>: A tool used for lighting and decoration</item>
+        <item>: A red hat known in the Levant, Egypt and Morocco</item>
+        <item>: Cover wrapped around the head</item>
+        <item>: Arabic men dress worn mostly in the Gulf countries</item>
+    </string-array>
+
+</resources>
